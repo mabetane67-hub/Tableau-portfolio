@@ -15,4 +15,4 @@ Joined Seattle's Inside Airbnb listings and calendar data in Excel, engineered a
 
 ## Connect
 
-- [https://www.linkedin.com/in/mohamed-ahmed-betane-598baa390]
+- https://www.linkedin.com/in/mohamed-ahmed-betane-598baa390
