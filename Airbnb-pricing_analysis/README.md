@@ -1,20 +1,19 @@
 # Seattle Airbnb Pricing Analysis (Tableau)
 
-An interactive Tableau dashboard exploring how Airbnb nightly prices in Seattle, WA vary by bedroom count, zip code, and time of year, built on the [Inside Airbnb](http://insideairbnb.com/) Seattle dataset (listings + calendar data).
+An interactive Tableau dashboard exploring how Airbnb nightly prices in Seattle, WA vary by bedroom count, zip code, and time of year, built on the [(https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)] Seattle dataset (listings + calendar data).
 
 ## 📊 Dashboard
 
 **Airbnb Pricing Analysis** — one dashboard, five views:
 
-| View | What it shows |
-|---|---|
-| Avg Price per Bedroom's Number | Average nightly price by number of bedrooms |
+| View                               |          What it shows                      |     
+| Avg Price per Bedroom's Number     | Average nightly price by number of bedrooms |
 | Distinct Count of Bedrooms Listing | Number of unique listings per bedroom count |
-| Price per Zipcode | Average nightly price across Seattle zip codes |
-| Price by Zipcode | Average nightly price by zip code, sorted descending |
-| Price per Year | Weekly price trend across the calendar year, split by Peak (Jun–Aug) vs. Off-Peak season |
+| Price per Zipcode                  | Average nightly price across Seattle zip codes |
+| Price by Zipcode                   | Average nightly price by zip code, sorted descending |
+| Price per Year                     | Weekly price trend across the calendar year, split by Peak (Jun–Aug) vs. Off-Peak season |
 
-🔗 **Live dashboard:** [add your Tableau Public link here]
+🔗 **Live dashboard:** [(https://public.tableau.com/app/profile/mohamed.ahmed.betane/vizzes)]
 
 ## 🔑 Key findings
 
@@ -43,15 +42,12 @@ Season = IF DATEPART('month', [Date]) IN (6, 7, 8) THEN "Peak" ELSE "Off-Peak" E
 - Tableau Desktop / Tableau Public
 - Microsoft Excel (data prep / join)
 
-## 📁 Files
+## 📁 File
 
-```
-├── AirBnB_full_project.twbx   # Packaged Tableau workbook (open in Tableau Desktop or Public)
-└── README.md
-```
+seattle-airbnb-pricing-analysis.twbx
 
 ## ▶️ How to view
 
-1. Download `AirBnB_full_project.twbx`
+1. Download seattle-airbnb-pricing-analysis.twbx
 2. Open it in [Tableau Desktop](https://www.tableau.com/products/desktop) or the free [Tableau Public](https://public.tableau.com/) app
 3. Or click the live dashboard link above to view it in your browser — no software needed
