@@ -6,7 +6,6 @@ Hi, I'm Mohamed — this repo collects the Tableau projects I'm building while l
 
 ### Seattle Airbnb Pricing Analysis
 
-### Airbnb-pricing_analysis/seattle-airbnb-pricing-analysis.twbx
 Joined Seattle's Inside Airbnb listings and calendar data in Excel, engineered a Price per Bedroom field and a Peak/Off-Peak season flag, then built five views — price by bedroom count, listing count by bedroom count, and price by zip code — combined into an interactive Tableau dashboard tracking price trends across the year.
 
 ## Tools & Skills
