@@ -16,7 +16,7 @@ An interactive Tableau dashboard exploring how Airbnb nightly prices in Seattle,
 
 ## 🔑 Key findings
 
-- - Across about 2,870 Seattle listings, nightly price scales steadily with bedroom count — from about $102/night for 1BR up to about $661/night for 6BR listings.
+- Across about 2,870 Seattle listings, nightly price scales steadily with bedroom count — from about $102/night for 1BR up to about $661/night for 6BR listings.
 - The priciest zip codes cluster around downtown/central Seattle (**98134, 98101, 98121, 98119, 98109**), averaging **$180–$205/night**.
 - **67% of listings are entire home/apt**, 30% are private rooms, and 3% are shared rooms.
 - Prices show a clear **seasonal lift in the summer months (Jun–Aug)** compared to the rest of the year.
